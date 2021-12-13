@@ -1,22 +1,20 @@
 <mat-card>
-	<mat-card-title>Alterar Empresa</mat-card-title>
+	<mat-card-title>Alterar Produto</mat-card-title>
 	<form>
 		<mat-form-field>
-			<input
-				matInput
-				placeholder="Nome"
-				[(ngModel)]="product.name"
-				name="name"
-			/>
+			<input matInput placeholder="Nome" [(ngModel)]="product.name" name="name" />
 		</mat-form-field>
 
 		<mat-form-field>
-			<input
-				matInput
-				placeholder="CNPJ"
-				[(ngModel)]="product.price"
-				name="price"
-			/>
+			<input matInput placeholder="Descrição (R$)" [(ngModel)]="product.description" name="description" />
+		</mat-form-field>
+
+		<mat-form-field>
+			<input matInput placeholder="Quantidade (R$)" [(ngModel)]="product.balance" name="balance" />
+		</mat-form-field>
+
+		<mat-form-field>
+			<input matInput placeholder="Preço (R$)" [(ngModel)]="product.price" name="price" />
 		</mat-form-field>
 	</form>
 	<button mat-raised-button (click)="updateProduct()" class="blue">

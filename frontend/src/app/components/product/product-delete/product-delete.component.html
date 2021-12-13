@@ -1,24 +1,20 @@
 <mat-card>
-	<mat-card-title>Excluir Empresa</mat-card-title>
+	<mat-card-title>Excluir Produto</mat-card-title>
 	<form>
 		<mat-form-field>
-			<input
-				matInput
-				placeholder="Nome"
-				[value]="product.name"
-				name="name"
-				disabled
-			/>
+			<input matInput placeholder="Nome" [value]="product.name" name="name" disabled />
 		</mat-form-field>
 
 		<mat-form-field>
-			<input
-				matInput
-				placeholder="Preço (R$)"
-				[value]="product.price"
-				name="price"
-				disabled
-			/>
+			<input matInput placeholder="Descrição" [value]="product.description" name="description" disabled />
+		</mat-form-field>
+
+		<mat-form-field>
+			<input matInput placeholder="Quantidade" [value]="product.balance" name="balance" disabled />
+		</mat-form-field>
+
+		<mat-form-field>
+			<input matInput placeholder="Preço (R$)" [value]="product.price" name="price" disabled />
 		</mat-form-field>
 	</form>
 	<button mat-raised-button (click)="deleteProduct()" color="warn">

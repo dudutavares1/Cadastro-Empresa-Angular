@@ -1,4 +1,8 @@
-
+.sidenav {
+	background-color: #ff3333;
+	width: 200px;
+	font-weight: bold;
+}
 
 .sidenav a {
 	color: #fff;
