@@ -1,3 +1,11 @@
+.container {
+  font-size: 22px;
+}
+
+.titulo {
+  text-align: center;
+}
+
 form {
   display: flex;
   flex-direction: column;
