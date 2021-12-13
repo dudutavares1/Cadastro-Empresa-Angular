@@ -9,6 +9,34 @@
       "name": "Geladeira",
       "price": "2500",
       "id": 4
+    },
+    {
+      "name": "",
+      "description": "",
+      "balance": null,
+      "price": null,
+      "id": 5
+    },
+    {
+      "name": "",
+      "description": "",
+      "balance": null,
+      "price": null,
+      "id": 6
+    },
+    {
+      "name": "",
+      "description": "",
+      "balance": null,
+      "price": null,
+      "id": 7
+    },
+    {
+      "name": "",
+      "description": "",
+      "balance": null,
+      "price": null,
+      "id": 8
     }
   ]
 }
