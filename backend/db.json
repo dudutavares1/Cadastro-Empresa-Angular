@@ -1,32 +1,18 @@
 {
   "products": [
     {
-      "name": "skynet",
-      "description": "start up",
-      "balance": 50,
-      "price": 1,
+      "name": "Banana Envestimentos ",
+      "description": "Bolsa de Valores ",
+      "balance": 1500,
+      "price": "Ativa",
       "id": 1
     },
     {
-      "name": "skynet 7",
-      "description": "start up yu",
-      "balance": 7,
-      "price": 7,
+      "name": "Skynet Corporartion",
+      "description": "Start-Up",
+      "balance": 100,
+      "price": "Ativa",
       "id": 2
-    },
-    {
-      "name": "",
-      "description": "",
-      "balance": null,
-      "price": "aTIVA",
-      "id": 3
-    },
-    {
-      "name": "banana",
-      "description": "Comercio",
-      "balance": 20,
-      "price": "aTIVA",
-      "id": 4
     }
   ]
 }
