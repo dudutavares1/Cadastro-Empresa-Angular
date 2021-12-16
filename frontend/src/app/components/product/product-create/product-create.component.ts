@@ -20,8 +20,8 @@ export class ProductCreateComponent implements OnInit {
   product: Product = {
     name: "",
     description: "",
-    balance: null,
-    price: null,
+    balance: "",
+    price: "",
   };
 
   constructor(private productService: ProductService, private router: Router) {}
