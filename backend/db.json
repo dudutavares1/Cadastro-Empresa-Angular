@@ -13,6 +13,13 @@
       "balance": 100,
       "price": "Ativa",
       "id": 2
+    },
+    {
+      "name": "Mercadinho Novo Mundo ",
+      "description": "Mercado",
+      "balance": 40,
+      "price": "Negativo",
+      "id": 4
     }
   ]
 }
