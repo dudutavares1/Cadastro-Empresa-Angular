@@ -1,18 +1,25 @@
 {
   "products": [
     {
-      "name": "Mercado Niteroi",
-      "description": "Empresa de Comercio",
-      "balance": "11",
-      "price": "Ativa",
+      "name": "Sabonete Dove",
+      "description": "Cosmetico",
+      "balance": 10,
+      "price": "RS 3,50",
       "id": 1
     },
     {
-      "name": "Mercado Niteroi",
-      "description": "Empresa de Comercio",
-      "balance": 11,
-      "price": "Negativado ",
+      "name": "Pasta de dente sorriso ",
+      "description": "Cosmetico",
+      "balance": 50,
+      "price": "R$ 2,50",
       "id": 2
+    },
+    {
+      "name": "Salgadinho Fofura",
+      "description": "Alimento",
+      "balance": 100,
+      "price": "RS 2,50 ",
+      "id": 3
     }
   ]
 }

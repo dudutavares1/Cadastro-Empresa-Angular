@@ -23,7 +23,6 @@ export class ProductCreateComponent implements OnInit {
     balance: null,
     price: null,
   };
-  
 
   constructor(private productService: ProductService, private router: Router) {}
 
