@@ -6,6 +6,13 @@
       "balance": "11",
       "price": "Ativa",
       "id": 1
+    },
+    {
+      "name": "Mercado Niteroi",
+      "description": "Empresa de Comercio",
+      "balance": 11,
+      "price": "Negativado ",
+      "id": 2
     }
   ]
 }
