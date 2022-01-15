@@ -13,6 +13,13 @@
       "balance": 100,
       "price": "RS 2,50 ",
       "id": 3
+    },
+    {
+      "name": "Sabonete Liquido",
+      "description": "cosmeticos",
+      "balance": 20,
+      "price": "\tR$ 35,50",
+      "id": 4
     }
   ]
 }
