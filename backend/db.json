@@ -1,25 +1,3 @@
 {
-  "products": [
-    {
-      "name": "Pasta de dente sorriso ",
-      "description": "Cosmetico",
-      "balance": 50,
-      "price": "R$ 2,50",
-      "id": 2
-    },
-    {
-      "name": "Salgadinho Fofura",
-      "description": "Alimento",
-      "balance": 100,
-      "price": "RS 2,50 ",
-      "id": 3
-    },
-    {
-      "name": "Sabonete Liquido",
-      "description": "cosmeticos",
-      "balance": 20,
-      "price": "\tR$ 35,50",
-      "id": 4
-    }
-  ]
+  "products": []
 }
