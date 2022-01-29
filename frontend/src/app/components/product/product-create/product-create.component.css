@@ -1,13 +1,11 @@
-.titulo{
-  
-}
-
 .container {
   font-size: 22px;
 }
 
 .titulo {
   text-align: center;
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 form {
@@ -21,16 +19,25 @@ button {
   font-weight: bold;
 }
 
+.logo {
+  box-sizing: border-box;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 100px;
+  display: flex;
+}
+
 .stage {
-	box-sizing: border-box;
-	left: 0;
-	top: 0;
-	width: 200px;
-	height: 100px;
-	overflow: hidden;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  box-sizing: border-box;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 100px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .btn {
@@ -85,8 +92,8 @@ button {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgb(0, 134, 255); 
-   left: 0;
+  background: rgb(0, 134, 255);
+  left: 0;
   top: 0;
   border-radius: 10px;
 }

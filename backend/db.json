@@ -41,6 +41,13 @@
       "balance": 201,
       "price": "2.26",
       "id": 6
+    },
+    {
+      "name": "Óleo de Soja Soya 900 Ml",
+      "description": "Alimentos ",
+      "balance": 150,
+      "price": "7.10",
+      "id": 7
     }
   ]
 }
