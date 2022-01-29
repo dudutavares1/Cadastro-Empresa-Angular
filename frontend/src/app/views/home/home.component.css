@@ -18,6 +18,15 @@
   text-align: center;
 }
 
+.img {
+  background-size: 100%;
+  border-radius: 15px;
+  height: ;
+  padding-right: 10px;
+  margin-right: 5px;
+  background-position: center;
+}
+
 .subtitle {
   text-align: center;
 }

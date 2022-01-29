@@ -1,5 +1,5 @@
 <mat-card>
-	<mat-card-title>Cadastrar Produtos</mat-card-title>
+	<mat-card-title class="titulo">Cadastrar Produtos</mat-card-title>
 	<form>
 		<mat-form-field>
 			<input matInput maxlength="40" placeholder="Nome do Produto" [(ngModel)]="product.name" name="name" />
@@ -17,7 +17,7 @@
 		</mat-form-field>
 
 		<mat-form-field>
-			<input matInput type="text" placeholder="Preço" [(ngModel)]="product.price" name="price" />
+			<input matInput type="text" placeholder="Preço (R$)" [(ngModel)]="product.price" name="price" />
 		</mat-form-field>
 	</form>
 
